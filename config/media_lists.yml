@@ -1,0 +1,4 @@
+media_lists:
+  - name: 名古屋大学
+    index_url: http://www.nagoya-u.ac.jp/about-nu/public-relations/researchinfo/
+    class: NagoyaUniv
